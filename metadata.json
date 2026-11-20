@@ -1,0 +1,6 @@
+{
+  "name": "Suwodi Sweets",
+  "description": "Homemade Assamese ethnic sweets and pithas including Narikolor Laru, Til Pitha, and Ghila Pitha at ₹10 per piece, with seamless online ordering, payment, local pickup, and home delivery scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
